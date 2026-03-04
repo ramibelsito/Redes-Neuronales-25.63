@@ -3,11 +3,11 @@
 ### Temas Importantes de la Materia:
 - Criterios de Ajustes de Parámetros
 - Modelos de Redes Neuronales <br>
-    MLP, Backprop, Aden, RMSProp.
-    Probabilísticos, Optimizables, Paralelizables, Etc.
+        MLP, Backprop, Aden, RMSProp. <br>
+        Probabilísticos, Optimizables, Paralelizables, Etc.
 - Metodología de Entrenamiento y Evaluación de Modelos
-- Técnicas de Regularización
-    // Formas de asegurarse de que los modelos funcionen con datos reales.
+- Técnicas de Regularización <br>
+        Formas de asegurarse de que los modelos funcionen con datos reales.
 - Datos vs Parámetros 
 - Modelos 2
     Imágenes (CNN, 2D, ViT, etc.)
