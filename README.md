@@ -2,7 +2,7 @@
 ## Clase 3-3-26
 ### Temas Importantes de la Materia:
 - Criterios de Ajustes de Parámetros
-- Modelos de Redes Neuronales
+- Modelos de Redes Neuronales <br>
     MLP, Backprop, Aden, RMSProp.
     Probabilísticos, Optimizables, Paralelizables, Etc.
 - Metodología de Entrenamiento y Evaluación de Modelos
