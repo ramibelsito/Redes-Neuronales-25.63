@@ -9,8 +9,8 @@
 - Técnicas de Regularización <br>
         Formas de asegurarse de que los modelos funcionen con datos reales.
 - Datos vs Parámetros 
-- Modelos 2
-    Imágenes (CNN, 2D, ViT, etc.)
+- Modelos 2 <br>
+    Imágenes (CNN, 2D, ViT, etc.) <br>
     NLP
 
 Un gran problema no es encontrar o tener un buen modelo sino tener una buena base de datos útil y competitiva.
